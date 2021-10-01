@@ -1,0 +1,23 @@
+{
+  "name": "data-scraper",
+  "version": "1.0.0",
+  "description": "A repo for data scraping using cheerio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karankartikeya/data-scraper-.git"
+  },
+  "author": "karan-kartikeya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karankartikeya/data-scraper-/issues"
+  },
+  "homepage": "https://github.com/karankartikeya/data-scraper-#readme",
+  "dependencies": {
+    "axios": "^0.22.0",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
